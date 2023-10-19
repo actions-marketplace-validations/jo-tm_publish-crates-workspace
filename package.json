@@ -31,12 +31,12 @@
     "@actions/glob": "^0.4.0",
     "@actions/http-client": "^2.1.0",
     "@iarna/toml": "^2.2.5",
-    "semver": "^7.4.0"
+    "semver": "^7.5.4"
   },
   "devDependencies": {
     "@types/jest": "^29.5.0",
     "@types/node": "^18.15.11",
-    "@types/semver": "^7.3.9",
+    "@types/semver": "^7.5.4",
     "@typescript-eslint/parser": "^5.58.0",
     "@vercel/ncc": "^0.36.1",
     "eslint": "^8.38.0",
